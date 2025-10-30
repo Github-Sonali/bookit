@@ -6,11 +6,9 @@ BookIt is a full-stack **MERN + TypeScript** web app where users can browse exci
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [Live URL here]
-- **Backend (Render):** [API URL here]
-- **GitHub Repo:** [Your GitHub repo link]
-
-> Replace the URLs above after deployment.
+- **Frontend (Vercel):** https://bookit-drab.vercel.app/
+- **Backend (Render):** https://bookit-backend1.onrender.com
+- **GitHub Repo:** https://github.com/Github-Sonali/bookit
 
 ---
 
